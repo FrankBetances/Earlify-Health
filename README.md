@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="docs/assets/earlify-logo.png" alt="Earlify Health" width="200"/>
-
 # Earlify Health
 
 **Ecosistema SaaS de Salud Digital Pediátrica**
@@ -76,7 +73,7 @@ Entorno de realidad aumentada que lleva la rehabilitación clínica directamente
 |-----------|---------|
 | 🎯 **Madurez tecnológica** | TRL 5 — Prototipos validados en entorno clínico real |
 | 👶 **Niños pilotados** | +100 en España y República Dominicana |
-| 🏥 **Centros de validación** | Hospital Ribera Polusa · H.U. Donostia · UFHEC Santo Domingo |
+| 🏥 **Centros de validación** | Hospital Ribera Polusa · UFHEC Santo Domingo |
 | 🏆 **Reconocimiento** | Premio Innovación en Salud · SERGAS 2023 |
 | 📅 **Marcado CE VIA+ (objetivo)** | Q4 2027 – Q1 2028 |
 | 💰 **Primer ingreso comercial** | 2028 (post-Marcado CE) |
