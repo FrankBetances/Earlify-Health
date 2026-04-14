@@ -1,5 +1,3 @@
-<div align="center">
-# Earlify Health
 
 **Ecosistema SaaS de Salud Digital Pediátrica**
 
@@ -134,8 +132,8 @@ Ver instrucciones completas de configuración en la [Guía de Contribución](../
 <table>
   <tr>
     <td align="center"><b>GooApps</b><br/><sub>Frontend / UX</sub></td>
-    <td align="center"><b>Craftium</b><br/><sub>AR / VR</sub></td>
-    <td align="center"><b>TrustyNet</b><br/><sub>Cloud / Seguridad</sub></td>
+    <td align="center"><b>GooApps</b><br/><sub>AR / VR</sub></td>
+    <td align="center"><b>GooApps</b><br/><sub>Cloud / Seguridad</sub></td>
   </tr>
   <tr>
     <td align="center"><b>USC · UFHEC</b><br/><sub>Validación clínica</sub></td>
@@ -167,8 +165,8 @@ Para licencias comerciales o colaboraciones: **frank.betances@earlify.health**
 Founder & Chief Scientific Officer — Earlify Health  
 Hospital Ribera Polusa, Lugo, España  
 
-📧 frank.betances@earlify.health  
-🌐 https://earlify.health  
+📧 fbetances@futureforkids.eu 
+🌐 https://futureforkids.eu 
 🔗 [LinkedIn](https://linkedin.com/in/frank-betances)
 
 ---
