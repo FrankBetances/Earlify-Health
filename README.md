@@ -155,7 +155,7 @@ Este proyecto está publicado bajo la **Earlify Health Source Available License 
 
 Ver [LICENSE](LICENSE) y [NOTICE](NOTICE) para términos completos y atribuciones de terceros.
 
-Para licencias comerciales o colaboraciones: **frank.betances@earlify.health**
+Para licencias comerciales o colaboraciones: **fbetances@futureforkids.eu**
 
 ---
 
